@@ -1,0 +1,28 @@
+/* Imágenes */
+img {
+  max-width: 20%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Ajustes en la sección de servicios */
+.services .service img {
+  width: 90px; /* Tamaño de los iconos de los servicios */
+  margin-bottom: 15px;
+}
+
+/* Imágenes en las noticias */
+.news article img {
+  width: 90%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Testimonios */
+.testimonials .testimonial img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
